@@ -1,8 +1,9 @@
 # Compilers Project ⌨️
 This project was developed under the Compilers course of the Bachelors Degree in Computer Science and Engineering.
-The objective of this projet was to develop a compiler for a particular programming language (in this case, DIY - do it yourself).
+The objective of this projet was to develop a compiler for a particular programming language (in this case, DIY - do it yourself). In particular, we had to defined all the data types and build the logic to execute the possible commands, for example, a for-loop. 
 
 The project was developed using lex, yacc and pburg, whose documentation is described [here](https://github.com/pedroreissantos/pburg).
+
 
 
 ### Table of content
