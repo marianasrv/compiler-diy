@@ -1,6 +1,6 @@
 # Compilers Project ⌨️
 This project was developed under the Compilers course of the Bachelors Degree in Computer Science and Engineering.
-The objective of this projet was to develop a compiler for a particular programming language (in this case, DIY - do it yourself). In particular, we had to defined all the data types and build the logic to execute the possible commands, for example, a for-loop. <a href="marianasrv.github.io/compiler-diy/ProgrammingLanguageDIY.pdf" target="_blank">Here</a> you can see the reference manual!
+The objective of this projet was to develop a compiler for a particular programming language (in this case, DIY - do it yourself). In particular, we had to defined all the data types and build the logic to execute the possible commands, for example, a for-loop. <a href="https://github.com/marianasrv/compiler-diy/blob/main/ProgrammingLanguageDIY.pdf" target="_blank">Here</a> you can see the reference manual!
 
 The project was developed using lex, yacc and pburg, whose documentation is described [here](https://github.com/pedroreissantos/pburg).
 
