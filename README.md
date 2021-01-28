@@ -50,7 +50,7 @@ and then:
 ## Show your support 
 
 </a>
-:star: Star us on GitHub — it helps!
+:star: Star me on GitHub — it helps!
 
 
 
